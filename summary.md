@@ -1,1 +1,1 @@
-summary.md
+This Project is a tempature probe based off of a raspberry pi pico W and a BMP280 tempature sensor. The project uses MicroPython to connect to the sensor with a I2C connection and hosts a simple web server to display the statistics from the sensor.
